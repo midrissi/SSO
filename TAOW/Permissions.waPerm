@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+	<allow action="read" groupName="administrator" groupID="E278E254E16C42D1814220FDE2B35BE4" resource="Model" temporaryForcePermissions="false" type="model"/>
+	<allow action="create" groupName="administrator" groupID="E278E254E16C42D1814220FDE2B35BE4" resource="Model" temporaryForcePermissions="false" type="model"/>
+	<allow action="update" groupName="administrator" groupID="E278E254E16C42D1814220FDE2B35BE4" resource="Model" temporaryForcePermissions="false" type="model"/>
+	<allow action="remove" groupName="administrator" groupID="E278E254E16C42D1814220FDE2B35BE4" resource="Model" temporaryForcePermissions="false" type="model"/>
+</permissions>

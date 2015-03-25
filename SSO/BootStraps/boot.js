@@ -1,0 +1,1 @@
+﻿directory.setLoginListener("loginListener", "administrator");addHttpRequestHandler('/taowLogin', 'ssjs/utils.js', 'taowLogin');
